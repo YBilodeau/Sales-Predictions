@@ -27,18 +27,22 @@ The goal of this is to help the retailer better understand the properties of pro
 - Item FDY55 is the top selling item with $42,662 in sales.
 
 **Which Item Type has the highest sales?**
+![image](https://user-images.githubusercontent.com/47255213/156962821-a54ffcef-dc9e-4060-a8dc-920fb9270f20.png)
 - The Fruits and Vegetables category is the highest selling category and makes up 16% of total sales.
 Convenience food categories come in at 2nd and 4th place with Snack Foods at 14% and Frozen Foods at 10%.
 - Household Items came in 3rd place with 10%.
 
 **Are consumers health conscious?**
+![image](https://user-images.githubusercontent.com/47255213/156962861-7e98e60f-6a6e-4ea7-8fdb-85a4a628a483.png)
 - Consumers tend to buy significantly more low fat items than regular items.
 65% of all sales are low fat items.
 
 **Does Outlet Size affect sales?**
+![image](https://user-images.githubusercontent.com/47255213/156962889-7c23df02-1f57-4bc4-870f-2fb324a99df0.png)
 -The Medium size outlets contributed to 33% of sales, however as 28% of the Outlets had an 'Unknown' size we can not make any assumptions based on this feature.
 
 **Does Outlet Location Type affect Sales?**
+![image](https://user-images.githubusercontent.com/47255213/156962924-5881d9b7-d2f4-45f5-89c2-a75eab3504b3.png)
 - Tier 3 Outlet Location Type did contribute the most with 39% sales.
 
 ## **Key Insights**
