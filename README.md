@@ -22,7 +22,7 @@ The goal of this is to help the retailer better understand the properties of pro
 ## **Key Questions**
 
 **Which items generate the greatest amount of sales?**
-(https://github.com/YBilodeau/Sales-Predictions/blob/main/Images/Top%20Selling%20Items.png?raw=true)
+![image](https://user-images.githubusercontent.com/47255213/156962749-3fff1822-e8c0-403f-904a-7761a8a7ade6.png)
 - Some Items sell significantly more than others.
 - Item FDY55 is the top selling item with $42,662 in sales.
 
