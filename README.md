@@ -26,7 +26,7 @@ The project is a sales prediction for food items sold at various stores. The goa
 - Some Items sell significantly more than others.
 - Item FDY55 is the top selling item with $42,662 in sales.
 
-**Which Item Type has the highest sales?!**
+**Which Item Type has the highest sales?**
 - The Fruits and Vegetables category is the highest selling category and makes up 16% of total sales.
 Convenience food categories come in at 2nd and 4th place with Snack Foods at 14% and Frozen Foods at 10%.
 - Household Items came in 3rd place with 10%.
@@ -41,7 +41,7 @@ Convenience food categories come in at 2nd and 4th place with Snack Foods at 14%
 **Does Outlet Location Type affect Sales?**
 - Tier 3 Outlet Location Type did contribute the most with 39% sales.
 
-**Key Insights*
+**Key Insights**
 - Current consumers tend to eat healthier. 
 > - They tend to buy significantly more low fat items than regular items.
 > - They also tend to spend more on Fruits and Vegetables than any other category of item.
@@ -54,6 +54,22 @@ Convenience food categories come in at 2nd and 4th place with Snack Foods at 14%
 > - Tier 3 Outlet Location Types
 
 
+## **Prediction Model Comparison**
+
+| Model | R^2 Training Score | R^2 Test Score | RMSE Training Score | RMSE Test Score |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| Baseline | 0.00 | -0.00 | 1720.31 | 1664.98 |
+| Linear Regresion | 0.5615438029098283 | 0.5671535903394698 | 1139.1188233294758 | 1092.8007198762534 |
+| Decision Tree | 0.6039092654846363 | 0.594954272967407 | 1,082.69 | 1,057.12  |
+
+R^2 (Coefficient of Determination)
+- The Decision Tree Model has the highest R^2 Test Score of 0.594954272967407.
+
+RMSE (Root Mean Square of Errors)
+- The Decision Tree Model has the lowest RMSE Test Score of 1057.12 
+
+**The Decision Tree Model is the reccomended model due to having the highest R^2 Test Score and the lowest RMSE Test Score.**
+- While whithin the scope of this analysis the Regression Decision Tree Model does have the highest R^2 Test Score and the lowest RMSE Test Score, it is reccomended that additional models be explored, such as Bagged Trees or Random Forests.
 
 
 
