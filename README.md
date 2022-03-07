@@ -67,7 +67,7 @@ Convenience food categories come in at 2nd and 4th place with Snack Foods at 14%
 **RMSE (Root Mean Square of Errors)**
 - The Decision Tree Model has the lowest RMSE Test Score of 1057.12 
 
-## **The Decision Tree Model is the reccomended model due to having the highest R^2 Test Score and the lowest RMSE Test Score.**
+**The Decision Tree Model is the reccomended model due to having the highest R^2 Test Score and the lowest RMSE Test Score.**
 - While whithin the scope of this analysis the Regression Decision Tree Model does have the highest R^2 Test Score and the lowest RMSE Test Score, it is reccomended that additional models be explored, such as Bagged Trees or Random Forests.
 
 
