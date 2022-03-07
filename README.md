@@ -1,9 +1,8 @@
 # **Sales Predictions Project**
 
-The project is a sales prediction for food items sold at various stores. The goal of this is to help the retailer better understand the properties of products and outlets that play crucial roles in increasing sales.
+The goal of this is to help the retailer better understand the properties of products and outlets that play crucial roles in increasing sales.
 
 ## **Data Dictionary for this dataset**
-
 
 |**Variable Name**|	**Description**|
 | ----- | ----- |
@@ -62,10 +61,10 @@ Convenience food categories come in at 2nd and 4th place with Snack Foods at 14%
 | Linear Regresion | 0.5615438029098283 | 0.5671535903394698 | 1139.1188233294758 | 1092.8007198762534 |
 | Decision Tree | 0.6039092654846363 | 0.594954272967407 | 1,082.69 | 1,057.12  |
 
-R^2 (Coefficient of Determination)
+**R^2 (Coefficient of Determination)**
 - The Decision Tree Model has the highest R^2 Test Score of 0.594954272967407.
 
-RMSE (Root Mean Square of Errors)
+**RMSE (Root Mean Square of Errors)**
 - The Decision Tree Model has the lowest RMSE Test Score of 1057.12 
 
 ## **The Decision Tree Model is the reccomended model due to having the highest R^2 Test Score and the lowest RMSE Test Score.**
