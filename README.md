@@ -1,8 +1,8 @@
-# Sales-Predictions
+# **Sales Predictions Project**
 
 The project is a sales prediction for food items sold at various stores. The goal of this is to help the retailer better understand the properties of products and outlets that play crucial roles in increasing sales.
 
-**Data Dictionary for this dataset**
+## **Data Dictionary for this dataset**
 
 
 |**Variable Name**|	**Description**|
@@ -20,7 +20,7 @@ The project is a sales prediction for food items sold at various stores. The goa
 |Outlet_Type|	Whether the outlet is a grocery store or some sort of supermarket|
 |Item_Outlet_Sales|	Sales of the product in the particular store. This is the target variable to be predicted.|
 
-**Key Questions**
+## **Key Questions**
 
 **Which items generate the greatest amount of sales?**
 - Some Items sell significantly more than others.
@@ -41,14 +41,14 @@ Convenience food categories come in at 2nd and 4th place with Snack Foods at 14%
 **Does Outlet Location Type affect Sales?**
 - Tier 3 Outlet Location Type did contribute the most with 39% sales.
 
-**Key Insights**
+## **Key Insights**
 - Current consumers tend to eat healthier. 
 > - They tend to buy significantly more low fat items than regular items.
 > - They also tend to spend more on Fruits and Vegetables than any other category of item.
 - Outlet Type contributes greatly to sales.
 > - Type 3 Outlets contribute significantly more than Types 1 or 2.
 
-**Recommendations**
+## **Recommendations**
 - Future Outlet expansion should consider prioritizing:
 > - Healthy low fat item categories and convenience items
 > - Tier 3 Outlet Location Types
@@ -68,7 +68,7 @@ R^2 (Coefficient of Determination)
 RMSE (Root Mean Square of Errors)
 - The Decision Tree Model has the lowest RMSE Test Score of 1057.12 
 
-**The Decision Tree Model is the reccomended model due to having the highest R^2 Test Score and the lowest RMSE Test Score.**
+## **The Decision Tree Model is the reccomended model due to having the highest R^2 Test Score and the lowest RMSE Test Score.**
 - While whithin the scope of this analysis the Regression Decision Tree Model does have the highest R^2 Test Score and the lowest RMSE Test Score, it is reccomended that additional models be explored, such as Bagged Trees or Random Forests.
 
 
