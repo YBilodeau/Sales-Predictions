@@ -22,6 +22,38 @@ The project is a sales prediction for food items sold at various stores. The goa
 
 **Key Questions**
 
-Which items generate the greatest amount of sales?![image](https://user-images.githubusercontent.com/47255213/156952831-fceda858-5a70-419b-a99b-52c1de3735b7.png)
+**Which items generate the greatest amount of sales?**
+- Some Items sell significantly more than others.
+- Item FDY55 is the top selling item with $42,662 in sales.
+
+**Which Item Type has the highest sales?!**
+- The Fruits and Vegetables category is the highest selling category and makes up 16% of total sales.
+Convenience food categories come in at 2nd and 4th place with Snack Foods at 14% and Frozen Foods at 10%.
+- Household Items came in 3rd place with 10%.
+
+**Are consumers health conscious?**
+- Consumers tend to buy significantly more low fat items than regular items.
+65% of all sales are low fat items.
+
+**Does Outlet Size affect sales?**
+-The Medium size outlets contributed to 33% of sales, however as 28% of the Outlets had an 'Unknown' size we can not make any assumptions based on this feature.
+
+**Does Outlet Location Type affect Sales?**
+- Tier 3 Outlet Location Type did contribute the most with 39% sales.
+
+**Key Insights*
+- Current consumers tend to eat healthier. 
+> - They tend to buy significantly more low fat items than regular items.
+> - They also tend to spend more on Fruits and Vegetables than any other category of item.
+- Outlet Type contributes greatly to sales.
+> - Type 3 Outlets contribute significantly more than Types 1 or 2.
+
+**Recommendations**
+- Future Outlet expansion should consider prioritizing:
+> - Healthy low fat item categories and convenience items
+> - Tier 3 Outlet Location Types
+
+
+
 
 
