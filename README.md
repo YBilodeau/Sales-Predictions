@@ -19,3 +19,9 @@ The project is a sales prediction for food items sold at various stores. The goa
 |Outlet_Location_Type|	The type of area in which the store is located|
 |Outlet_Type|	Whether the outlet is a grocery store or some sort of supermarket|
 |Item_Outlet_Sales|	Sales of the product in the particular store. This is the target variable to be predicted.|
+
+**Key Questions**
+
+Which items generate the greatest amount of sales?![image](https://user-images.githubusercontent.com/47255213/156952831-fceda858-5a70-419b-a99b-52c1de3735b7.png)
+
+
